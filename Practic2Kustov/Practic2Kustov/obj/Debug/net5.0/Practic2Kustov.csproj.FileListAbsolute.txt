@@ -1,0 +1,16 @@
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\bin\Debug\net5.0\Practic2Kustov.exe
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\bin\Debug\net5.0\Practic2Kustov.deps.json
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\bin\Debug\net5.0\Practic2Kustov.runtimeconfig.json
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\bin\Debug\net5.0\Practic2Kustov.runtimeconfig.dev.json
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\bin\Debug\net5.0\Practic2Kustov.dll
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\bin\Debug\net5.0\ref\Practic2Kustov.dll
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\bin\Debug\net5.0\Practic2Kustov.pdb
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\obj\Debug\net5.0\Practic2Kustov.csproj.AssemblyReference.cache
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\obj\Debug\net5.0\Practic2Kustov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\obj\Debug\net5.0\Practic2Kustov.AssemblyInfoInputs.cache
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\obj\Debug\net5.0\Practic2Kustov.AssemblyInfo.cs
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\obj\Debug\net5.0\Practic2Kustov.csproj.CoreCompileInputs.cache
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\obj\Debug\net5.0\Practic2Kustov.dll
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\obj\Debug\net5.0\ref\Practic2Kustov.dll
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\obj\Debug\net5.0\Practic2Kustov.pdb
+C:\Users\kysti\source\repos\Practic2Kustov\Practic2Kustov\obj\Debug\net5.0\Practic2Kustov.genruntimeconfig.cache
